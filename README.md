@@ -1,5 +1,5 @@
 # Travel website 2
 
-Demo Link- https://yash-srivastav16.github.io/Tour-website-2/
+Demo Link-https://github.com/pragyasinha19/Tour-guide-website
 
  Travel website 2 (html,css,javascript)
